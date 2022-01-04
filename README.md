@@ -1,4 +1,4 @@
-# Pablo-Escobar-
+# Pablo-Escobar
 Pablo Escobar  is a single user combat game based on theme of"Narcos - Netflix"
 Game Theme based on Pablo Escobar.
 It’s a 2-D  Dynamic single player action shooting game.
